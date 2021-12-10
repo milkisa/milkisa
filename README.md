@@ -3,7 +3,7 @@
 ## I'm a Researcher, Developer, and Husband!!
 
 - 🔭 I just received Tensorflow developer certificate: [Tensorflow Developer!][course]!
-- 🔭 I’m currently working on AI
+- 🔭 I publishe a paper."Coffee disease classification and visualization"
 - 🌱 I’m currently learning computer vision 🤣
 - 💡  I like to explore new technologies and develop computer vision application.
 - 👯 Artificial intelligence enthusiastic
