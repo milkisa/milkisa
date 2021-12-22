@@ -1,8 +1,7 @@
 ### Hi there, I'm milkisa - aka [milkostar] 👋
 
 ## I'm a Researcher, Developer, and Husband!!
-### Visit my personal page:
-[<img align="left" alt="codeSTACKr | Personal Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />]
+### Visit my personal page:[personal website] [<img align="left" alt="codeSTACKr | Personal Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />]
 [Github]
 
 
@@ -113,7 +112,7 @@
 [course]: https://developers.google.com/certification/directory/tensorflow
 
 [instagram]: https://www.instagram.com/milkostarozil
-[Github]: https://milkisa.github.io/index.html
+[personal website]: https://milkisa.github.io/index.html
 [linkedin]: https://www.linkedin.com/in/milkisa-tesfaye-694b441a6
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
