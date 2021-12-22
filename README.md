@@ -112,7 +112,7 @@
 [course]: https://developers.google.com/certification/directory/tensorflow
 
 [instagram]: https://www.instagram.com/milkostarozil
-[personal website]: https://milkisa.github.io/index.html
+[personal website]: https://milkisa.github.io/
 [linkedin]: https://www.linkedin.com/in/milkisa-tesfaye-694b441a6
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
