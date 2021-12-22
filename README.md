@@ -1,8 +1,8 @@
 ### Hi there, I'm milkisa - aka [milkostar] 👋
 
 ## I'm a Researcher, Developer, and Husband!!
-### Visit my personal page:[personal website] [<img align="left" alt="codeSTACKr | Personal Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />]
-[Github]
+### Visit my personal page:[personal website] 
+
 
 
 
