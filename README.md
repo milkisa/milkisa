@@ -1,6 +1,9 @@
 ### Hi there, I'm milkisa - aka [milkostar] 👋
 
 ## I'm a Researcher, Developer, and Husband!!
+### Visit my personal page:
+
+[<img align="left" alt="codeSTACKr | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][Github]
 
 - 🔭 I just received Tensorflow developer certificate: [Tensorflow Developer!][course]!
 - 🔭 I publishe a paper."Coffee disease classification and visualization"
@@ -107,6 +110,7 @@
 [course]: https://developers.google.com/certification/directory/tensorflow
 
 [instagram]: https://www.instagram.com/milkostarozil
+[Github]: https://milkisa.github.io/index.html
 [linkedin]: https://www.linkedin.com/in/milkisa-tesfaye-694b441a6
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
